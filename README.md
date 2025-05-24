@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola! I'm a Multiplatform App Developer
 
-<!--
-**JhonnyMcGoleman/JhonnyMcGoleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduated with a *Grado Superior en Desarrollo de Aplicaciones Multiplataforma*  
+🐍 Python enthusiast | 💼 2+ years of experience with SAP & ABAP  
+☕ Java survivor | 💻 Always learning, always building
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages & Tools**  
+`Python` `ABAP` `Java` `SQL` `SAP` `Git` `GitHub`  
+
+**Databases**  
+`Oracle` `MySQL`  
+
+**Currently exploring**  
+`Web Development` | `Cloud (AWS basics)` | `Automation with Python`
+
+---
+
+## 📈 GitHub Stats
+
+![Metrics](https://github.com/yourusername/JhonnyMCgGoleman/blob/main/github-metrics.svg)
+---
