@@ -23,5 +23,5 @@
 
 ---
 
-![Metrics](https://github.com/yourusername/JhonnyMCgGoleman/blob/main/github-metrics.svg)
+![Metrics](/github-metrics.svg)
 ---
