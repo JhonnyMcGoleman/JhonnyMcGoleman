@@ -1,6 +1,5 @@
 # 👋 ¡Hola! I'm a Multiplatform App Developer
 
-🎓 Graduated with a *Grado Superior en Desarrollo de Aplicaciones Multiplataforma*  
 🐍 Python enthusiast | 💼 2+ years of experience with SAP & ABAP  
 ☕ Java survivor | 💻 Always learning, always building
 
