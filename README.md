@@ -5,12 +5,20 @@
 ☕ Java survivor | 💻 Always learning, always building
 
 ---
+<div align=center>
 
-## 🛠️ Tech Stack
 ![Metricss](/metrics.plugin.languages.indepth.svg)
+  
+</div>
+
+
 
 ---
-
+<table align=center>
+<tr>
+   
+<th align=center>
+  
 ### Software Development:
 ![Java](https://img.shields.io/badge/-Java-e76f00?style=flat-square&logo=coffeescript&logoColor=white&labelColor=1e1e1e)
 ![android](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=android&logoColor=3DDC84&labelColor=1e1e1e)
@@ -21,7 +29,13 @@
 ### Currently Learning:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ce7e00&labelColor=1e1e1e)
 
----
+</th>
+
+<th>
 
 ![Metrics](/github-metrics.svg)
----
+  
+</th>
+
+
+
